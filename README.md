@@ -19,4 +19,4 @@ Nosso foco esta em mostrar as seguintes informações:
 ![Imgur](https://i.imgur.com/NnIEFRB.png)
 
 ## Planejamento Sprints
-![Imgur](https://i.imgur.com/dv8pWIi.png)
+![Imgur](https://i.imgur.com/ncfaoXU.png)
