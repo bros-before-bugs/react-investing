@@ -16,7 +16,7 @@ Nosso foco esta em mostrar as seguintes informações:
 
 ## Protótipo
 
-##imagens##
+![Imgur](https://i.imgur.com/NnIEFRB.png)
 
 ## Planejamento Sprints
 ![Imgur](https://i.imgur.com/dv8pWIi.png)
